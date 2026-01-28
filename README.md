@@ -2,7 +2,7 @@
 
 A basic animatronic powered by a **Raspberry Pi Zero 2 W** that moves its eyes, eyelids, jaw, and neck. Input is handled via a **4x4 matrix keypad**, and power is supplied by a **7.4V Li-ion battery** with soft and hard shutdown controls.
 
-![Animatronic](./docs/)
+[docs folder](./docs/)
 
 ---
 
