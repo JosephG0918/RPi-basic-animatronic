@@ -1,0 +1,2 @@
+@reboot cd /home/oreo-pi/python-dir/servos && PYTHONPATH=/home/oreo-pi/python-dir/servos /home/oreo-pi/.local/share/virtualenvs/servos-UDXMN5wF/bin/python /home/oreo-pi/python-dir/servos/keypad.py > /home/oreo-pi/logs/cron_keypad.log 2>&1
+@reboot /usr/bin/python3 /home/oreo-pi/python-dir/shutdown-press/shutdown-press-simple.py
