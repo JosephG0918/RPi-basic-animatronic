@@ -7,7 +7,7 @@ A basic animatronic powered by a **Raspberry Pi Zero 2 W** that moves its eyes, 
 ---
 
 ## Project Overview
-- First animatronic project using a Raspberry Pi and Waveshare 16-Channel Servo Driver HAT.
+- Animatronic project using a Raspberry Pi and Waveshare 16-Channel Servo Driver HAT.
 - Uses **7 micro servos** to animate 3D-printed parts (eyes, eyelids, jaw, neck).
 - Each button on the keypad controls a specific component; one button triggers all simultaneously.
 - Includes soft shutdown via momentary push button and hard power switch via rocker switch.
