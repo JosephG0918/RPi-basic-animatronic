@@ -43,3 +43,6 @@ A basic animatronic powered by a **Raspberry Pi Zero 2 W** that moves its eyes, 
 1. **Enable I²C on Raspberry Pi**  
    ```bash
    sudo raspi-config
+
+![alt text](IMG_0547.png)
+![alt text](IMG_0548.png)
