@@ -12,8 +12,6 @@ A basic animatronic powered by a **Raspberry Pi Zero 2 W** that moves its eyes, 
 - Each button on the keypad controls a specific component; one button triggers all simultaneously.
 - Includes soft shutdown via momentary push button and hard power switch via rocker switch.
 
-> ⚠️ Always press the soft shutdown button before toggling the main power switch to avoid SD card corruption.
-
 ---
 
 ## Quick Specs
@@ -35,6 +33,11 @@ A basic animatronic powered by a **Raspberry Pi Zero 2 W** that moves its eyes, 
 - Printer: Bambu Lab P1S
 - Software: Bambu Studio
 - Modified pre-existing model for Pi mount, battery compartment, keypad, switches, and base legs
+
+---
+
+## Power Notes
+> ⚠️ Always use the soft shutdown button before turning off the hard power switch to avoid SD card corruption.
 
 ---
 
